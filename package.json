@@ -1,0 +1,23 @@
+{
+  "name": "gw2inventory",
+  "version": "1.0.0",
+  "description": "Guild Wars 2 Inventory - a list of your belongings",
+  "main": "server/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angieo/gw2inventory.git"
+  },
+  "author": "Angie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angieo/gw2inventory/issues"
+  },
+  "homepage": "https://github.com/angieo/gw2inventory#readme",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "joi": "^10.2.2"
+  }
+}
